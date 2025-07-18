@@ -1,6 +1,6 @@
 # 입터졌GPT
 
-![ice_breaking](./ice_breaking.jpg)
+<img src="https://i.ibb.co/MyHsppT6/D2-F9-C1-A3-465-F-425-E-9-BEC-F4031-A5-B2-F3-E.jpg" alt="D2-F9-C1-A3-465-F-425-E-9-BEC-F4031-A5-B2-F3-E" border="0">
 
 `매주 월요일`에 만나는 새로운 팀원, `초면인데 뭐라고 말할까?`
 
@@ -10,6 +10,6 @@
 
 ## 이건 첫 번째 LESSON
 
-![hello](./hello.jpg)
+<img src="https://i.ibb.co/7HZNJpP/54-B47-AB4-3-A32-4984-A1-FF-ECD63-F1-E6-F82.jpg" alt="54-B47-AB4-3-A32-4984-A1-FF-ECD63-F1-E6-F82"></a>
 
 `입터졌GPT`는 AI의 **창의성을 활용하여 커뮤니티 멤버 간의 자연스러운 소통을 유도**하고 AI가 각자의 상황에 맞춘 **감성적, 사교적 템플릿**을 제안하여 **대화의 시작을 쉽게 하고, 긍정적인 팀 분위기**와 **더욱 친밀하고 유대감 있는 관계를 형성** 하는 것을 목표로 합니다.
