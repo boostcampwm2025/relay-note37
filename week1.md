@@ -57,3 +57,38 @@
 	- 화 : 사과와 뱀을 주제로 이야기를 만들어줘
 	- 수 : 3사 AI 알고리즘 코딩 테스트
 	- 목 : AI가 인간의 일자리를 대체하는 것에 대한 찬반 논리를 각각 제시하고, 해결 방안을 제안해줘
+
+## 미션 수행 내용
+
+### 4. AI 모델을 최소 두 개 이상 써보고 비교해보기
+
+#### 월 : 오키나와 여행 일정 짜줘
+
+- chatGPT(GPT-4o)
+[오키나와 여행 일정](https://chatgpt.com/share/687d9d73-b93c-800d-9895-5c1abba59a92)
+
+-  Claude(Claude Sonnet 4)
+
+오키나와 여행 일정을 짜드리겠습니다! 몇 박 며칠 여행인지, 어떤 스타일의 여행을 선호하시는지에 따라 달라지겠지만, 일반적인 3박 4일 일정으로 제안해드릴게요.
+
+[오키나와 3박 4일 여행 일정](https://claude.ai/public/artifacts/2c693a17-1ee6-4395-9df6-bbeefbe5dfdd)
+
+이 일정은 3박 4일 기준으로 작성했는데, 여행 기간이나 관심사에 따라 조정하실 수 있어요.
+
+**추가 고려사항:**
+
+- 더 긴 여행이라면 이시가키섬이나 미야코섬 같은 외곽 섬들도 방문해보세요
+- 다이빙을 좋아하신다면 케라마 제도 투어를 추가하는 것도 좋습니다
+- 가족 여행이라면 오키나와 츄라우미 수족관을 꼭 포함시키세요
+
+혹시 특별히 관심 있는 활동이나 여행 스타일이 있으시면 더 구체적으로 맞춤 일정을 만들어드릴 수 있어요!
+
+- Perplexity(Perplexity Sonar)
+[오키나와 3일 일정](https://www.perplexity.ai/search/okinawa-yeohaeng-iljeong-jjajw-EW2vIAS1Q8SY7shlmMSVKg#0)
+
+- 각자의 계획 평가하기
+	- [chatGPT](https://chatgpt.com/share/687d9f73-0644-800d-b262-b70ce58752ea)
+	- [Claude](https://claude.ai/public/artifacts/db824dec-ddaa-415b-b01f-fdd680d182f3)
+	- [Perplexity](https://www.perplexity.ai/search/1beon-okinawa-yeohaeng-iljeong-nHCPZfpqTvGBfMkVGZheAQ#0)
+
+일정표 형식으로 제공한 두 AI와 다르게 Perplexity의 경우 리뷰 형식의 여행 계획을 제공했다. 여행 계획으로 사용하기에는 일정표 형식이 아니라 시간 흐름을 파악하기도 어려웠고, 여행 동선이 고려되어 있지 않아 추가적으로 저 장소를 방문하기 위한 여행 계획을 다시금 수립해야 한다는 점에서 바로 사용할 수 없다는 아쉬움이 있었다. 하지만 내가 직접 여행 계획을 짤 때, 일정 수립 전 명소를 찾는 데엔 탁월한 정보라고 생각한다. 이 응답이 여행 일정 짜줘 라는 질문에 맞는 응답인가에 대해서는 의문이 들지만, 색다른 시각을 볼 수 있었다.
