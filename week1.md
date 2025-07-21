@@ -65,26 +65,26 @@
 #### 월 : 오키나와 여행 일정 짜줘
 
 - chatGPT(GPT-4o)
-[오키나와 여행 일정](https://chatgpt.com/share/687d9d73-b93c-800d-9895-5c1abba59a92)
+
+	[오키나와 여행 일정](https://chatgpt.com/share/687d9d73-b93c-800d-9895-5c1abba59a92)
 
 -  Claude(Claude Sonnet 4)
 
-오키나와 여행 일정을 짜드리겠습니다! 몇 박 며칠 여행인지, 어떤 스타일의 여행을 선호하시는지에 따라 달라지겠지만, 일반적인 3박 4일 일정으로 제안해드릴게요.
-
-[오키나와 3박 4일 여행 일정](https://claude.ai/public/artifacts/2c693a17-1ee6-4395-9df6-bbeefbe5dfdd)
-
-이 일정은 3박 4일 기준으로 작성했는데, 여행 기간이나 관심사에 따라 조정하실 수 있어요.
-
-**추가 고려사항:**
-
-- 더 긴 여행이라면 이시가키섬이나 미야코섬 같은 외곽 섬들도 방문해보세요
-- 다이빙을 좋아하신다면 케라마 제도 투어를 추가하는 것도 좋습니다
-- 가족 여행이라면 오키나와 츄라우미 수족관을 꼭 포함시키세요
-
-혹시 특별히 관심 있는 활동이나 여행 스타일이 있으시면 더 구체적으로 맞춤 일정을 만들어드릴 수 있어요!
+	오키나와 여행 일정을 짜드리겠습니다! 몇 박 며칠 여행인지, 어떤 스타일의 여행을 선호하시는지에 따라 달라지겠지만, 일반적인 3박 4일 일정으로 제안해드릴게요.
+	
+	[오키나와 3박 4일 여행 일정](https://claude.ai/public/artifacts/2c693a17-1ee6-4395-9df6-bbeefbe5dfdd)
+	
+	이 일정은 3박 4일 기준으로 작성했는데, 여행 기간이나 관심사에 따라 조정하실 수 있어요.
+	
+	**추가 고려사항:**
+	
+	- 더 긴 여행이라면 이시가키섬이나 미야코섬 같은 외곽 섬들도 방문해보세요
+	- 다이빙을 좋아하신다면 케라마 제도 투어를 추가하는 것도 좋습니다
+	- 가족 여행이라면 오키나와 츄라우미 수족관을 꼭 포함시키세요
 
 - Perplexity(Perplexity Sonar)
-[오키나와 3일 일정](https://www.perplexity.ai/search/okinawa-yeohaeng-iljeong-jjajw-EW2vIAS1Q8SY7shlmMSVKg#0)
+
+	[오키나와 3일 일정](https://www.perplexity.ai/search/okinawa-yeohaeng-iljeong-jjajw-EW2vIAS1Q8SY7shlmMSVKg#0)
 
 - 각자의 계획 평가하기
 	- [chatGPT](https://chatgpt.com/share/687d9f73-0644-800d-b262-b70ce58752ea)
