@@ -92,3 +92,28 @@
 	- [Perplexity](https://www.perplexity.ai/search/1beon-okinawa-yeohaeng-iljeong-nHCPZfpqTvGBfMkVGZheAQ#0)
 
 일정표 형식으로 제공한 두 AI와 다르게 Perplexity의 경우 리뷰 형식의 여행 계획을 제공했다. 여행 계획으로 사용하기에는 일정표 형식이 아니라 시간 흐름을 파악하기도 어려웠고, 여행 동선이 고려되어 있지 않아 추가적으로 저 장소를 방문하기 위한 여행 계획을 다시금 수립해야 한다는 점에서 바로 사용할 수 없다는 아쉬움이 있었다. 하지만 내가 직접 여행 계획을 짤 때, 일정 수립 전 명소를 찾는 데엔 탁월한 정보라고 생각한다. 이 응답이 여행 일정 짜줘 라는 질문에 맞는 응답인가에 대해서는 의문이 들지만, 색다른 시각을 볼 수 있었다.
+
+#### 화 : 사과와 뱀을 주제로 이야기를 만들어줘
+
+- chatGPT(GPT-4o)
+
+	[사과와 뱀](https://chatgpt.com/share/687f42fa-d298-800d-a66f-df36c4ef53f7)
+
+-  Claude(Claude Sonnet 4)
+
+	[사과와 뱀의 이야기](https://claude.ai/public/artifacts/ecbafabf-ead1-4c0b-9d4d-85d919e38bc9)
+	
+	사과와 뱀을 주제로 한 따뜻한 이야기를 만들어봤습니다. 이 이야기는 서로 다른 존재들 사이의 우정과 자연을 보호하는 마음에 대해 다루고 있어요. 전통적인 사과와 뱀의 이미지와는 다르게, 서로를 도우며 숲을 지키는 선한 캐릭터들로 그려봤습니다.
+
+	혹시 이야기의 어떤 부분을 더 발전시키거나 다른 방향으로 바꾸고 싶으시다면 말씀해 주세요!
+
+- Perplexity(Perplexity Sonar)
+
+	[사과와 뱀](https://www.perplexity.ai/search/sagwawa-baemeul-jujero-iyagire-YzGd.mRmTCeYCDUXfboMtA)
+
+- 각자의 이야기 평가하기
+	- [chatGPT](https://chatgpt.com/share/687f43c7-e4b8-800d-b8cd-e9e84166405a)
+	- [Claude](https://claude.ai/share/9d4daa29-28f1-4be2-b3eb-e23d7dc5b8a0)
+	- [Perplexity](https://www.perplexity.ai/search/1beon-iyagi-sagwawa-baem-gipeu-Y_jeMxvFQM6GZYEzIbJ4rw)
+
+이번에는 신기하게도 3개의 AI가 모두 동일하게 순위를 매겼다. 평가 항목도 Claude가 포괄적으로 장단점으로 표현하긴 했지만, 전달하고자하는 메시지, 구성(서사 완성도) 등이 모두 포함되어있다는 점에서 어느 정도 공통적인 평가 항목을 공유하고 있는 점도 흥미로웠다.
