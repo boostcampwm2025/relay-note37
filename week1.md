@@ -145,3 +145,8 @@
   - [Perplexity](https://www.perplexity.ai/search/1beon-iyagi-sagwawa-baem-gipeu-Y_jeMxvFQM6GZYEzIbJ4rw)
 
 이번에는 신기하게도 3개의 AI가 모두 동일하게 순위를 매겼다. 평가 항목도 Claude가 포괄적으로 장단점으로 표현하긴 했지만, 전달하고자하는 메시지, 구성(서사 완성도) 등이 모두 포함되어있다는 점에서 어느 정도 공통적인 평가 항목을 공유하고 있는 점도 흥미로웠다.
+
+#### 수 : 3사 AI 알고리즘 코딩 테스트
+
+알고리즘 문제를 주어주고 풀이를 작성한 후 AI에게 각자의 코드 평가를 맡겼는데, Claude와 Perplexity는 Perplexity, Claude, GPT로 등수를 매겼다. 그런데 GPT의 경우 조금 문제가 있었다. 서버 오류로 답변이 날아갔다고 생각해 같은 질문을 다시 한 번 돌렸는데, 전과는 완전히 다른 평가 결과가 나와 여러 번 시도해본 결과 매번 평가 결과가 다르게 나온다는 것을 알 수 있었다. 때문에 GPT의 응답 신뢰도에 대해서 의문점이 발생했다. 그래도 4번의 시도 중 2번은 Perplexity, Claude, GPT 1번은 GPT, Claude, Perplexity 1번은 Perplexity, GPT, Claude가 나왔다.
+(실제 채점 결과는 Claude > GPT > Perplexity > 과거의 나였다)
