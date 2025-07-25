@@ -200,5 +200,13 @@ Kotlin/마블 인기 캐릭터 종류와 타노스가 각자 자신의 보드에
 
 #### 수 : 3사 AI 알고리즘 코딩 테스트
 
-알고리즘 문제를 주어주고 풀이를 작성한 후 AI에게 각자의 코드 평가를 맡겼는데, Claude와 Perplexity는 Perplexity, Claude, GPT로 등수를 매겼다. 그런데 GPT의 경우 조금 문제가 있었다. 서버 오류로 답변이 날아갔다고 생각해 같은 질문을 다시 한 번 돌렸는데, 전과는 완전히 다른 평가 결과가 나와 여러 번 시도해본 결과 매번 평가 결과가 다르게 나온다는 것을 알 수 있었다. 때문에 GPT의 응답 신뢰도에 대해서 의문점이 발생했다. 그래도 4번의 시도 중 2번은 Perplexity, Claude, GPT 1번은 GPT, Claude, Perplexity 1번은 Perplexity, GPT, Claude가 나왔다.
-(실제 채점 결과는 Claude > GPT > Perplexity > 과거의 나였다)
+알고리즘 문제를 주고 풀이를 작성한 후 AI에게 각자의 코드 평가를 맡겼는데, Claude와 Perplexity는 Perplexity, Claude, GPT로 등수를 매겼다. 그런데 GPT의 경우 조금 문제가 있었다. 서버 오류로 답변이 날아갔다고 생각해 같은 질문을 다시 한 번 돌렸는데, 전과는 완전히 다른 평가 결과가 나와 여러 번 시도해본 결과 매번 평가 결과가 다르게 나온다는 것을 알 수 있었다. 때문에 GPT의 응답 신뢰도에 대해서 의문점이 발생했다. 그래도 4번의 시도 중 2번은 Perplexity, Claude, GPT 1번은 GPT, Claude, Perplexity 1번은 Perplexity, GPT, Claude가 나왔다.
+(실제 채점 결과는 Claude > GPT > Perplexity > 과거의 나였다...)
+
+#### 목 : AI가 인간의 일자리를 대체하는 것에 대한 찬반 논리를 각각 제시하고, 해결 방안을 제안해줘
+
+- [chatGPT(GPT-4o)](https://chatgpt.com/share/6882c895-9f60-800d-a5f2-22800b82a7fe)
+- [Claude(Claude Sonnet 4)](https://claude.ai/share/20dd4ed1-4979-442c-afcc-9942dc644479)
+- [Perplexity(Perplexity Sonar)](https://www.perplexity.ai/search/aiga-inganyi-iljarireul-daeceh-Ara9aAEsTiSKQaylniTm9w)
+
+예전에 봤던 윌 스미스 주연의 아이, 로봇이라는 영화가 감명 깊었던 탓일까 혹시 하는 마음이 있었지만, 역시 그런 일은 없었다.(ㅎㅎ) 새로운 시각을 보여줬다기 보단 기존의 논의된 내용의 요약본 같은 내용의 답변을 받은 것 같다.
