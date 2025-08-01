@@ -169,3 +169,75 @@ AI를 활용한 동료들의 기여 분석과 긍정적인 롤링페이퍼 시�
 - 동료에게 설득력 있게 내 설계를 설명할 수 있는 능력 키우기
 
 </details>
+
+
+#퀘스트 수행 내역 
+
+### K018_심재훈 퀘스트 2번
+선택 이유 : 팀원들과 서로에게 도움이 되었던 부분들을 이야기하며 서로 칭찬하면, 자존감도 올라가고, 서로에게 어떤 부분이 도움이 되었는지를 확인하기 좋은 미션이라고 생각하고, 칭찬과 함께 마무리하면 훈훈하고 좋은 분위기로 마무리 될 것 같아 선택하였음
+
+<details>
+<summary><strong>2025년 8월 4일</strong></summary>
+</details>
+<details>
+<summary><strong>2025년 8월 5일</strong></summary>
+</details>
+<details>
+<summary><strong>2025년 8월 6일</strong></summary>
+</details>
+<details>
+<summary><strong>2025년 8월 7일</strong></summary>
+</details>
+
+
+### J207_이정근 퀘스트 3번
+선택 이유 : 그동안 AI에게 질문하는 방식으로만 사용했는데 이 퀘스트를 진행하면 퀴즈 기반으로 내용을 복습하며 질문 형식 말고 다른 방식으로 사용할 수 있을 것 같다.
+
+<details>
+<summary><strong>2025년 8월 4일</strong></summary>
+</details>
+<details>
+<summary><strong>2025년 8월 5일</strong></summary>
+</details>
+<details>
+<summary><strong>2025년 8월 6일</strong></summary>
+</details>
+<details>
+<summary><strong>2025년 8월 7일</strong></summary>
+</details>
+
+
+### J103_박기태 퀘스트 4번
+선택 이유 : 실제로도 설계를 할때 어떤 트레이드오프가 있는지 생각해보는 편인데 이걸 ai도움을 받아서 더 명확하게 정리해서 피어세션에 이야기해보면 좋을 것 같다.
+
+
+<details>
+<summary><strong>2025년 8월 4일</strong></summary>
+</details>
+<details>
+<summary><strong>2025년 8월 5일</strong></summary>
+</details>
+<details>
+<summary><strong>2025년 8월 6일</strong></summary>
+</details>
+<details>
+<summary><strong>2025년 8월 7일</strong></summary>
+</details>
+
+
+### J199_이여빈 퀘스트 2번
+선택 이유 : 챌린지의 마지막 주를 스터디원들과 함께 의미 있게 마무리하고 싶은 생가게 선택하게 되었다.
+
+
+<details>
+<summary><strong>2025년 8월 4일</strong></summary>
+</details>
+<details>
+<summary><strong>2025년 8월 5일</strong></summary>
+</details>
+<details>
+<summary><strong>2025년 8월 6일</strong></summary>
+</details>
+<details>
+<summary><strong>2025년 8월 7일</strong></summary>
+</details>
